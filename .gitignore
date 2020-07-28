@@ -1,0 +1,11 @@
+# node.js
+#
+node_modules/
+
+# General ignores
+#
+.cache/
+dist/
+coverage/
+.vscode/
+.env
